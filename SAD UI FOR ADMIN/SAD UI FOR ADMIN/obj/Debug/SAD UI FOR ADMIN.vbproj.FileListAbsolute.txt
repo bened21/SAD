@@ -1,0 +1,33 @@
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\bin\Debug\SAD UI FOR ADMIN.exe.config
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\bin\Debug\SAD UI FOR ADMIN.exe
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\bin\Debug\SAD UI FOR ADMIN.pdb
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\bin\Debug\SAD UI FOR ADMIN.xml
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.Resources.resources
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.vbproj.GenerateResource.Cache
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.exe
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.xml
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.pdb
+C:\Users\bened\Documents\Visual Studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.Login.resources
+C:\Users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.main.resources
+C:\Users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.main_supervisor.resources
+C:\Users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.main_user.resources
+C:\Users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.vbprojResolveAssemblyReference.cache
+C:\Users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.action.resources
+C:\Users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.assign.resources
+C:\Users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.add_account.resources
+C:\Users\bened\documents\visual studio 2012\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.update_account.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.vbprojAssemblyReference.cache
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.add_account.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.update_account.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.Login.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.main.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.assign.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.main_supervisor.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.main_user.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.action.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD_UI_FOR_ADMIN.Resources.resources
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.vbproj.GenerateResource.cache
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.vbproj.CoreCompileInputs.cache
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.exe
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.xml
+G:\Seagate Dashboard 2.0\BENEDICTJOHN\bened\Backup\6e078c88-43ed-4e07-8ebf-3628f9e69819\20180201_003428_bened1\C\Users\bened\Documents\New folder\Projects\SAD UI FOR ADMIN\SAD UI FOR ADMIN\obj\Debug\SAD UI FOR ADMIN.pdb

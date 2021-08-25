@@ -1,0 +1,11 @@
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\bin\Debug\SAD UI FOR USERS.exe.config
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\bin\Debug\SAD UI FOR USERS.exe
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\bin\Debug\SAD UI FOR USERS.pdb
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\bin\Debug\SAD UI FOR USERS.xml
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\obj\Debug\SAD_UI_FOR_USERS.Form1.resources
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\obj\Debug\SAD_UI_FOR_USERS.Form2.resources
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\obj\Debug\SAD_UI_FOR_USERS.Resources.resources
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\obj\Debug\SAD UI FOR USERS.vbproj.GenerateResource.Cache
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\obj\Debug\SAD UI FOR USERS.exe
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\obj\Debug\SAD UI FOR USERS.xml
+c:\users\bened\documents\visual studio 2012\Projects\SAD UI FOR USERS\SAD UI FOR USERS\obj\Debug\SAD UI FOR USERS.pdb
